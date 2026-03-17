@@ -82,8 +82,6 @@ I'm a software engineering student who enjoys building practical tools, explorin
 
 ---
 
-## 📊 GitHub Streak
-
 <p align="center">
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com?user=StaticScriptSkid&theme=dark&hide_border=false" alt="GitHub Streak" />
